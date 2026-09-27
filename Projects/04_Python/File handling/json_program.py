@@ -18,3 +18,5 @@ with open(r"D:\Data Analystics\Projects\04_Python\File handling\data.json","r")a
     student=json.dumps(stds)
     
     print(student)
+    
+    
