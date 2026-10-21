@@ -71,8 +71,8 @@ The dashboard screenshot displays the following values:
 These figures are transcribed from the provided dashboard screenshot. They should be validated against the Excel workbook before being used in formal business reporting.
 
 ## 🖼️ Dashboard Preview
+<img width="1302" height="725" alt="Trendkart Sales Performance Dashboard" src="https://github.com/user-attachments/assets/65647f66-d000-4421-8b2e-bcdfaf9a483e" />
 
-"D:\Data Analystics\Projects\01_Excel\Datasets\TrendKart\Dashboard\Trendkart Sales Performance Dashboard.png"
 
 To display this preview on GitHub, save the supplied dashboard screenshot in an `images/` folder inside the TrendKart project and name it `trendkart-dashboard.png`. If you keep the image in another location, update the relative path above to match.
 
