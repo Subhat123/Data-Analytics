@@ -72,7 +72,7 @@ These figures are transcribed from the provided dashboard screenshot. They shoul
 
 ## 🖼️ Dashboard Preview
 
-![TrendKart Sales Performance Dashboard](images/trendkart-dashboard.png)
+"D:\Data Analystics\Projects\01_Excel\Datasets\TrendKart\Dashboard\Trendkart Sales Performance Dashboard.png"
 
 To display this preview on GitHub, save the supplied dashboard screenshot in an `images/` folder inside the TrendKart project and name it `trendkart-dashboard.png`. If you keep the image in another location, update the relative path above to match.
 
