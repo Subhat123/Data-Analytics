@@ -15,5 +15,5 @@
 #     print("Good")
 # elif(marks>=50):
 #     print("Pass")
-# else:
+# else:         
 #     print("Fail")                
