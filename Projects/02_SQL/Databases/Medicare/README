@@ -1,0 +1,74 @@
+# Medicare Database Analysis using SQL
+
+## About the Project
+
+This project is about analyzing healthcare data using SQL and MySQL Workbench. The database contains information related to hospitals, departments, doctors, patients, appointments, admissions, treatments, laboratory tests, pharmacy transactions, billing, and payments.
+
+The main purpose of this project is to understand how SQL can be used to organize healthcare data, check data quality, and analyze hospital operations and financial activities.
+
+## Objectives
+
+- Create and manage a healthcare database using MySQL.
+- Explore table structures and understand relationships between tables.
+- Check data quality by identifying missing values, duplicate IDs, and invalid records.
+- Use joins and aggregate functions to analyze healthcare data.
+- Analyze patient appointments, hospital admissions, treatments, and laboratory activities.
+- Examine pharmacy sales, billing amounts, and payment collections.
+- Practice SQL window functions for ranking and appointment analysis.
+
+## Tools Used
+
+- MySQL
+- MySQL Workbench
+- SQL
+- GitHub
+
+## Project Files
+
+The SQL queries are organized into separate files based on their purpose.
+
+| File | Description |
+|---|---|
+| `01_Database_and_Tables.sql` | Creates the database and tables. |
+| `02_Table_Alterations.sql` | Modifies table structures and performs initial checks. |
+| `03_Table_Inspection_and_Row_Counts.sql` | Checks table structures and record counts. |
+| `04_Foreign_Keys_and_Integrity_Checks.sql` | Checks relationships and referential integrity. |
+| `05_Data_Quality_Validation.sql` | Validates missing values, invalid records, and data formats. |
+| `06_Business_Analysis.sql` | Analyzes hospital operations and healthcare costs. |
+| `07_Window_Functions.sql` | Uses window functions to analyze appointment sequences and doctor workloads. |
+
+## SQL Concepts Practiced
+
+During this project, I worked with database and table creation, `ALTER TABLE`, `SELECT`, `WHERE`, `JOIN`, `GROUP BY`, aggregate functions, subqueries, `UNION ALL`, foreign keys, data validation, and window functions such as `ROW_NUMBER()`, `RANK()`, `LAG()`, and `LEAD()`.
+
+## Key Areas of Analysis
+
+- Hospital appointments and admissions
+- Department activity and doctor workloads
+- Patient visits and treatment records
+- Laboratory tests and treatment costs
+- Pharmacy sales and medicine revenue
+- Total billing, payment collections, and collection gaps
+- Overall healthcare operational metrics
+
+## How to Run the Project
+
+1. Install MySQL Server and MySQL Workbench.
+2. Download or clone this repository.
+3. Open MySQL Workbench and connect to your MySQL server.
+4. Open the SQL files and execute the queries in the appropriate order.
+5. Review the query results to understand the analysis.
+
+**Note:** Some queries depend on existing tables and data. Review statements that modify the database, especially `DROP TABLE`, `UPDATE`, and foreign-key constraints, before executing them.
+
+## What I Learned
+
+This project helped me practice writing SQL queries, checking data quality, working with relationships between tables, and using healthcare data to answer operational and financial questions.
+
+## Author
+
+**T. Subha**
+
+Aspiring Data Analyst | SQL | Excel | Power BI | Python
+
+GitHub: [Subhat123](https://github.com/Subhat123)
